@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_app_id">ca-app-pub-7311450013837110~3032991322</string>
+    <string name="admob_ads_interstitial">ca-app-pub-7311450013837110/1169245314</string>
+    <string name="admob_ads_banner">ca-app-pub-7311450013837110/5279078389</string>
+    <string name="admob_ads_open">ca-app-pub-7311450013837110/1046594415</string>
+
+    <string name="unity_ads_unit">4190585</string>
+</resources>

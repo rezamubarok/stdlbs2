@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="force_update_version">force_update_version</string>
+    <string name="force_update_package">force_update_package</string>
+    <string name="force_update_msg">force_update_msg</string>
+    <string name="ads_min_duration">ads_min_duration</string>
+    <string name="ads_max_duration">ads_max_duration</string>
+    <string name="ads_enabled">ads_enabled</string>
+    <string name="inter_ads_auto">inter_ads_auto</string>
+</resources>

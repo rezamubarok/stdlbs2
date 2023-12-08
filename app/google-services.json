@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512501634770",
+    "project_id": "studiolabs-fac19",
+    "storage_bucket": "studiolabs-fac19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512501634770:android:bb476da1dc8690f1a57f0b",
+        "android_client_info": {
+          "package_name": "com.gamestudiolab.psgaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512501634770-tb0nrekrubuodk5vgqjcjp2gf9g4m0ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUh-FtBpzJWUSyVS4NMGpuLJ6qrQOuAl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512501634770-tb0nrekrubuodk5vgqjcjp2gf9g4m0ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

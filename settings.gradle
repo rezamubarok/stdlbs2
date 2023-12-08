@@ -1,0 +1,4 @@
+rootProject.name = "Game StudioLabs"
+include ':app'
+include ':androidZip4jmaster-release'
+include ':unity-ads'
